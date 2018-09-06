@@ -9,7 +9,7 @@
     
 # DHT22 Module 오차
 
-
+![default](https://user-images.githubusercontent.com/38156821/45140539-0d673300-b1ee-11e8-96fa-8a57a686ead3.png)
 
 # 동작 원리
 
@@ -29,6 +29,8 @@
     
 # Arduino Uno connection
 
+![kakaotalk_photo_2018-09-05-16-43-55](https://user-images.githubusercontent.com/38156821/45140552-135d1400-b1ee-11e8-95a2-4fc679a53b73.jpeg)
 
+# 실행 결과
 
-# 실행 
+![kakaotalk_photo_2018-09-05-16-43-55](https://user-images.githubusercontent.com/38156821/45140552-135d1400-b1ee-11e8-95a2-4fc679a53b73.jpeg)

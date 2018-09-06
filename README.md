@@ -29,8 +29,9 @@
     
 # Arduino Uno connection
 
-![kakaotalk_photo_2018-09-05-16-43-55](https://user-images.githubusercontent.com/38156821/45140552-135d1400-b1ee-11e8-95a2-4fc679a53b73.jpeg)
+![kakaotalk_photo_2018-09-05-16-43-55](https://user-images.githubusercontent.com/38156821/45140552-135d1400-b1ee-11e8-95a2-4fc679a53b73.jpeg)<br>
+DHT22 Module에 GND, NC, DAT, VCC순으로 있는데 GND는 GND로, NC는 사용안함, DAT는 digital pin, VCC 는 5V로 연결을 한다.
 
 # 실행 결과
 
-![kakaotalk_photo_2018-09-05-16-43-55](https://user-images.githubusercontent.com/38156821/45140552-135d1400-b1ee-11e8-95a2-4fc679a53b73.jpeg)
+![2018-09-05 4 42 35](https://user-images.githubusercontent.com/38156821/45140532-06d8bb80-b1ee-11e8-8839-01a89f5791e5.png)
